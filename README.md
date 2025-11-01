@@ -8,7 +8,7 @@
 ## 🚀 About Me     
 - 🤝 *Looking to collaborate on:* Python-based projects, AI tools, productivity apps  
 - 📚 *Ask me about:* Python basics, APIs, JSON, CSV, Web scraping  
-- 🕔 *Fun fact:* I start my day at *5:00 AM* for coding & personal growth!
+- 🕔 *Fun fact:* I start my day at *8:30 AM* for coding & personal growth!
 
 <!--
 **DeAjinkya/DeAjinkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
